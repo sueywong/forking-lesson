@@ -1,3 +1,0 @@
-shiu 
-nyc
-verison control
